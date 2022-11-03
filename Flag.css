@@ -1,0 +1,26 @@
+body
+{
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+#sweden
+{
+    background-color: steelblue;
+    border: 2px solid black;
+    margin: 30px
+}
+
+#italy
+{
+    background-color: white;
+    border: 2px solid black;
+    margin: 30px
+}
+
+#norway
+{
+    background-color: red;
+    border: 2px solid black;
+    margin: 30px
+}
